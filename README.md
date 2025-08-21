@@ -6,3 +6,6 @@ Runs for 50 epochs basically improves itself 50 times
 So yeah sweet dreams
 
 hello-TensorFlow, see what I did there?
+
+Make sure you’ve got TensorFlow installed.
+Just type pip install tensorflow in the terminal and let the magic begin
